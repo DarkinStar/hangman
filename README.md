@@ -1,2 +1,2 @@
 # hungman
-Russian hungman Game in Python 
+Russian hangman Game in Python 
